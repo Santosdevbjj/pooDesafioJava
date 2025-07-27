@@ -27,6 +27,22 @@ Inspirado no desafio da Digital Innovation One 💛🧡 1
 
 
 
+## Funcionalidades implementadas
+
+- Criação de cursos e mentorias
+
+- Configuração de um bootcamp com múltiplos conteúdos
+
+- Inscrição de Devs e simulação de progresso
+
+- Cálculo automático de XP acumulado
+
+
+
+
+
+
+
 
 
 
@@ -35,6 +51,18 @@ Inspirado no desafio da Digital Innovation One 💛🧡 1
 
 .
 
+
+
+---
+
+## 📄 LICENSE (MIT)
+
+```text
+MIT License
+
+Copyright (c) 2025 Seu Nome
+
+Permission is hereby granted...
 
 
 
