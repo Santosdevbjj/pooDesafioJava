@@ -53,14 +53,14 @@ Inspirado no desafio da Digital Innovation One 💛🧡 1
 
 
 
----
+
 
 ## 📄 LICENSE (MIT)
 
 ```text
 MIT License
 
-Copyright (c) 2025 Seu Nome
+Copyright (c) 2025 Sergio Santos 
 
 Permission is hereby granted...
 
