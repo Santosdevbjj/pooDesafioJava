@@ -26,7 +26,6 @@ Inspirado no desafio da Digital Innovation One 💛🧡 1
 
 
 
-
 ## Funcionalidades implementadas
 
 - Criação de cursos e mentorias
@@ -39,8 +38,15 @@ Inspirado no desafio da Digital Innovation One 💛🧡 1
 
 
 
+✅ **Por que esse projeto destaca os 4 pilares da POO:**
 
+- Abstração: Conteudo é abstrata, definindo o contrato sem detalhes.
 
+- Encapsulamento: uso de atributos private, acesso via getters/setters.
+
+- Herança: Curso e Mentoria estendem Conteudo.
+
+- Polimorfismo: calcularXp() tem implementações distintas em cada subclasse.
 
 
 
