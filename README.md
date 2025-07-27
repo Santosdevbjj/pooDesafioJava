@@ -4,7 +4,8 @@
 ![tonnieJava](https://github.com/user-attachments/assets/ab8fa440-d6e5-4964-9ff9-cfe47d5c8dc7)
 
 
-# Desafio POO Bootcamp (Java)
+**Bootcamp TONNIE - Java and AI in Europe**
+
 
 Projeto para aprendizado prático dos pilares da Programação Orientada a Objetos (POO) em Java:
 
